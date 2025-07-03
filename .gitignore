@@ -1,0 +1,23 @@
+# Xcode
+.DS_Store
+build/
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# SwiftPM
+Packages/
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Firebase
+GoogleService-Info.plist
+
+# Env file
+.env
